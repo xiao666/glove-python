@@ -1,0 +1,9 @@
+To install
+Take a close look at the issues in the original repo.
+1.change libraries=["stdc++"] to libraries=[] in setup.py
+
+Cython- Cannot open include file: 'io.h': No such file or directory:
+https://stackoverflow.com/questions/40018405/cython-cannot-open-include-file-io-h-no-such-file-or-directory
+
+Python Installation Compilation Errors
+https://stackoverflow.com/questions/42757497/python-installation-compilation-errors
